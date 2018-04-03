@@ -1,6 +1,6 @@
 # Project
 
-This is UI mockup of the YieldStreet support center page - [YieldStreet Support Center](https://www.yieldstreet.com/support-center)
+This is a UI mockup of the YieldStreet support center page - [YieldStreet Support Center](https://www.yieldstreet.com/support-center)
 
 ## Technologies Used
 
