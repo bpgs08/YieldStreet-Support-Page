@@ -20,7 +20,7 @@ Lastly, I repeated some FAQs in the interest of time. Also, the HTML I used in m
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
+# Serve on localhost
 npm start
 
 # Build for production
